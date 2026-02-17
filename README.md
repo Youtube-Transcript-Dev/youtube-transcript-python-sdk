@@ -1,11 +1,29 @@
-# YouTubeTranscript Python SDK
+<p align="center">
+  <a href="https://youtubetranscript.dev">
+    <img src="https://youtubetranscript.dev/logo.svg" alt="YouTubeTranscript.dev" width="280" />
+  </a>
+</p>
 
-Official Python client for the [YouTubeTranscript.dev](https://youtubetranscript.dev) API — extract, transcribe, and translate YouTube video transcripts.
+<h3 align="center">YouTubeTranscript Python SDK</h3>
+
+<p align="center">
+  Official Python client for the <a href="https://youtubetranscript.dev">YouTubeTranscript.dev</a> API<br/>
+  Extract, transcribe, and translate YouTube video transcripts.
+</p>
+
+<p align="center">
+  <a href="https://pypi.org/project/youtubetranscriptdevapi/"><img src="https://img.shields.io/pypi/v/youtubetranscriptdevapi?color=%2334D058&label=pypi" alt="PyPI version" /></a>
+  <a href="https://pypi.org/project/youtubetranscriptdevapi/"><img src="https://img.shields.io/pypi/pyversions/youtubetranscriptdevapi?color=%2334D058" alt="Python versions" /></a>
+  <a href="https://github.com/Youtube-Transcript-Dev/youtube-transcript-python-sdk/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Youtube-Transcript-Dev/youtube-transcript-python-sdk" alt="License" /></a>
+  <a href="https://pypi.org/project/youtubetranscriptdevapi/"><img src="https://img.shields.io/pypi/dm/youtubetranscriptdevapi?color=%2334D058" alt="Downloads" /></a>
+</p>
+
+---
 
 ## Installation
 
 ```bash
-pip install youtubetranscript
+pip install youtubetranscriptdevapi
 ```
 
 ## Quick Start
@@ -175,6 +193,7 @@ MIT — see [LICENSE](LICENSE)
 ## Links
 
 - [Website](https://youtubetranscript.dev)
+- [PyPI](https://pypi.org/project/youtubetranscriptdevapi/)
 - [API Docs](https://youtubetranscript.dev/api-docs)
 - [Dashboard](https://youtubetranscript.dev/dashboard)
 - [Pricing](https://youtubetranscript.dev/pricing)
