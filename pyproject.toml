@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "youtubetranscript"
+name = "youtubetranscriptdevapi"
 version = "0.1.0"
 description = "Official Python SDK for YouTubeTranscript.dev — extract, transcribe, and translate YouTube video transcripts"
 readme = "README.md"
