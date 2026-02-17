@@ -15,7 +15,6 @@
   <a href="https://pypi.org/project/youtubetranscriptdevapi/"><img src="https://img.shields.io/pypi/v/youtubetranscriptdevapi?color=%2334D058&label=pypi" alt="PyPI version" /></a>
   <a href="https://pypi.org/project/youtubetranscriptdevapi/"><img src="https://img.shields.io/pypi/pyversions/youtubetranscriptdevapi?color=%2334D058" alt="Python versions" /></a>
   <a href="https://github.com/Youtube-Transcript-Dev/youtube-transcript-python-sdk/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Youtube-Transcript-Dev/youtube-transcript-python-sdk" alt="License" /></a>
-  <a href="https://pypi.org/project/youtubetranscriptdevapi/"><img src="https://img.shields.io/pypi/dm/youtubetranscriptdevapi?color=%2334D058" alt="Downloads" /></a>
 </p>
 
 ---
