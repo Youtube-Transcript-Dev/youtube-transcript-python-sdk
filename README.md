@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://youtubetranscript.dev">
-    <img src="https://youtubetranscript.dev/logo.svg" alt="YouTubeTranscript.dev" width="280" />
+  <a href="https://www.youtubetranscript.dev">
+    <img src="https://www.youtubetranscript.dev/logo.svg" alt="YouTubeTranscript.dev" width="280" />
   </a>
 </p>
 
 <h3 align="center">YouTubeTranscript Python SDK</h3>
 
 <p align="center">
-  Official Python client for the <a href="https://youtubetranscript.dev">YouTubeTranscript.dev</a> API<br/>
+  Official Python client for the <a href="https://www.youtubetranscript.dev">YouTubeTranscript.dev</a> API<br/>
   Extract, transcribe, and translate YouTube video transcripts.
 </p>
 
@@ -43,7 +43,7 @@ for seg in result.segments[:5]:
     print(f"[{seg.start_formatted}] {seg.text}")
 ```
 
-Get your free API key at [youtubetranscript.dev/dashboard](https://youtubetranscript.dev/dashboard)
+Get your free API key at [youtubetranscript.dev/dashboard](https://www.youtubetranscript.dev/dashboard)
 
 ## Features
 
@@ -191,8 +191,8 @@ MIT — see [LICENSE](LICENSE)
 
 ## Links
 
-- [Website](https://youtubetranscript.dev)
+- [Website](https://www.youtubetranscript.dev)
 - [PyPI](https://pypi.org/project/youtubetranscriptdevapi/)
-- [API Docs](https://youtubetranscript.dev/api-docs)
-- [Dashboard](https://youtubetranscript.dev/dashboard)
-- [Pricing](https://youtubetranscript.dev/pricing)
+- [API Docs](https://www.youtubetranscript.dev/api-docs)
+- [Dashboard](https://www.youtubetranscript.dev/dashboard)
+- [Pricing](https://www.youtubetranscript.dev/pricing)
